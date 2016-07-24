@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/127795/7538bb20e4944339b308f92fb9bc6c86
+url: http://rpubs.com/GREG131/127795
+when: 1448108112.58863
